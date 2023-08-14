@@ -1,7 +1,5 @@
 # Tutorial Recommendation
 
-# KeyphraseExtraction
-
 Dataset for the paper "Tutorial Recommendation for Livestream Videos using Discourse-Level Consistency and Ontology-Based Filtering" at 
 
 # Licenses
